@@ -1,4 +1,4 @@
-This repository contains the source code for my [MQL4 Youtube lesson series] (https://www.youtube.com/channel/UCXNQtBHYVZi2fNfFmCgarDQ). 
+This repository contains the source code for my [MQL4 Youtube lesson series](https://www.youtube.com/channel/UCXNQtBHYVZi2fNfFmCgarDQ). 
 
 Lesson 1: indicators/Tutorial-SMA.mq4
 Lesson 2: indicators/Aroon UpandDown.mq4
